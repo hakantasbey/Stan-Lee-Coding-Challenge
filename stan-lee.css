@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    background-color: rgb(48, 48, 46, 0.815);
+    margin: 45px;
+    border-radius: 30px;
+    
+}
+
+h1{
+    font-family: "Lobster Two", cursive;
+    font-weight: bolder;
+    font-size: 48px;
+    color: lightgray;
+    text-align: center;
+
+}
+
+h2{
+    color: red;
+    font-family: "Lobster Two", cursive;
+    font-weight: bolder;
+    margin-left: 25px;
+
+}
+
+span{
+    color: red;
+}
+
+img{
+    width: 18em;
+    border-radius: 35px;
+    box-shadow: 6px 2px 250px 46px rgb(232, 17, 17, 0.6);
+  
+}
+
+.header-part{
+    text-align: center;
+}
+
+article{
+    text-align: justify;
+    margin: 12px 25px;
+}
+
+footer{
+    text-align: center;
+    padding: 0 3rem;
+    padding-bottom: 0.3rem;
+}
+
+footer a{
+    border: 2px solid orange;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+footer a:hover{
+    color: red;
+    background-color: rgb(48, 46, 46, 0.815);
+    cursor: pointer;
+}
